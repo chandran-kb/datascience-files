@@ -1,0 +1,32 @@
+2023-07-25 07:17:03,157 this is my info logging
+2023-07-25 07:17:03,157 this is my error message
+2023-07-25 07:17:03,157 this is my critical message
+2023-07-25 07:18:15,365 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/builtins.pyi
+2023-07-25 07:18:15,416 pickle loaded: /opt/conda/lib/python3.10/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2023-07-25 07:18:17,061 diff parser start
+2023-07-25 07:18:17,062 line_lengths old: 1; new: 1
+2023-07-25 07:18:17,062 -> code[replace] old[1:1] new[1:1]
+2023-07-25 07:18:17,062 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 07:18:17,063 diff parser end
+2023-07-25 07:18:17,083 pickle loaded: /opt/conda/lib/python3.10/logging/__init__.py
+2023-07-25 07:18:27,011 diff parser start
+2023-07-25 07:18:27,011 line_lengths old: 1; new: 1
+2023-07-25 07:18:27,011 -> code[replace] old[1:1] new[1:1]
+2023-07-25 07:18:27,012 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 07:18:27,012 diff parser end
+2023-07-25 07:18:28,515 diff parser start
+2023-07-25 07:18:28,516 line_lengths old: 1; new: 1
+2023-07-25 07:18:28,516 -> code[replace] old[1:1] new[1:1]
+2023-07-25 07:18:28,516 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 07:18:28,516 diff parser end
+2023-07-25 07:18:53,488 diff parser start
+2023-07-25 07:18:53,489 line_lengths old: 1; new: 1
+2023-07-25 07:18:53,489 -> code[replace] old[1:1] new[1:1]
+2023-07-25 07:18:53,489 parse_part from 1 to 1 (to 0 in part parser)
+2023-07-25 07:18:53,490 diff parser end
+2023-07-25 07:20:33,290 this is my info logging
+2023-07-25 07:20:33,291 this is my error message
+2023-07-25 07:20:33,291 this is my critical message
+2023-07-25 07:20:52,571 this is my info logging
+2023-07-25 07:20:52,571 this is my error message
+2023-07-25 07:20:52,571 this is my critical message
